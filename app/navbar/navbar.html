@@ -1,0 +1,21 @@
+<nav ng-controller="navbarCtrl" class="navbar navbar-default navbar-fixed-top custom-navbar" role="navigation" ng-class="{ 'navbar-transparent': currentState == 'home' }">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" ng-init="navCollapsed = true" ng-click="navCollapsed = !navCollapsed">
+        	<span class="sr-only">Toggle navigation</span>
+        	<span class="icon-bar"></span>
+        	<span class="icon-bar"></span>
+        	<span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand custom-navbar-brand" ui-sref="home"><img id="navbar-logo" ng-src="img/logo.png"></img></a>
+    </div>
+
+    <div class="collapse navbar-collapse" ng-class="!navCollapsed && 'in'">
+        <ul class="nav navbar-nav navbar-right">
+            <li><a ui-sref="home">HOME{{currentState}}</a></li>
+            <li><a href="#">PROGRAMS</a></li>
+            <li><a ui-sref="people">PEOPLE</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">CONTACT</a></li>
+        </ul>
+    </div><!-- /.navbar-collapse -->
+</nav>

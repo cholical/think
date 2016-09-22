@@ -12,6 +12,11 @@
         templateUrl: 'app/home/home.html',
         controller: 'homeCtrl'
       })
+      .state('people', {
+        url: '/people',
+        templateUrl: 'app/people/people.html',
+        controller: 'peopleCtrl'
+      })
 
     $urlRouterProvider.otherwise('/home');
 

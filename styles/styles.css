@@ -1,0 +1,49 @@
+/***** Navbar *****/
+.custom-navbar {
+	background-color: white;
+	border: none;
+	height: 70px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.navbar-transparent {
+	background-color: transparent;
+}
+
+.custom-navbar-brand {
+	padding: 4px;
+	height: 70px;
+}
+
+#navbar-logo {
+	height: 100%;
+}
+
+.navbar-padding {
+	padding-top: 70px;
+}
+
+/***** Home *****/
+.home-logo-container {
+	text-align: center;
+}
+
+#home-logo {
+	display:block;
+	margin: auto;
+}
+
+.home-mission {
+	font-size: 25px;
+	padding-top: 20px;
+	text-align: center;
+	color: #55a0d2;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+/***** People *****/
+#people-cover {
+	width:100%;
+}
