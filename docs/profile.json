@@ -1,0 +1,37 @@
+[
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Website Developer",
+    "year": 2,
+    "images": [
+      "ronald1.jpg",
+      "ronald2.jpg",
+      "ronald3.jpg"
+    ],
+    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "involvement": [
+      "I am working on the website",
+      "I am on the operations team"
+    ],
+    "experiences": [
+      {
+        "title": "Developer",
+        "company": "Bank of America",
+        "descriptions": [
+          "I created an application",
+          "I collaborated with other developers"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "facebook.com\/cholical",
+    "linkedin": "linkedin.com",
+    "twitter": "twitter.com",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  }
+]
