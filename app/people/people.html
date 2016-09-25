@@ -7,20 +7,20 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 people-team-title">
-				Think Team
+				THINK Team
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-3">
+			<div class="col-md-3" ng-repeat="person in people">
 				<div class="panel panel-default people-profile-panel">
 					<div class="panel-body people-profile-card">
-						<img class="hvr-grow" id="people-profile-photo" src="img/profile/ronald1.jpg">
+						<img ng-click="openProfile(person);" class="hvr-grow" id="people-profile-photo" ng-src="{{person.images[0]}}">
 						<div class="people-profile-text-container">
 							<div class="people-profile-name">
-								Ronald Ding
+								{{person.firstName}} {{person.lastName}}
 							</div>
 							<div class="people-profile-role">
-								Website Developer
+								{{person.tagline}}
 							</div>
 						</div>
 					</div>
