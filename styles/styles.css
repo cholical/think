@@ -25,6 +25,10 @@
 	padding-top: 70px;
 }
 
+.navbar-li {
+	background-color: white;
+}
+
 /***** Home *****/
 .home-logo-container {
 	text-align: center;
@@ -44,6 +48,77 @@
 }
 
 /***** People *****/
+.people-cover-container {
+	margin: 0 auto;
+}
+
 #people-cover {
-	width:100%;
+	width: 100%;
+	z-index: -100;
+	position:fixed;
+}
+
+.people-white-background {
+	background-color: white;
+	margin-top: 20%;
+	padding-top: 50px;
+}
+
+.people-team-title {
+	text-align: center;
+    font-size: 40px;
+    color: #545454;
+    padding-bottom: 20px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.people-profile-panel {
+	margin: 10px;
+}
+
+.people-profile-card {
+	padding: 20px;
+	background-color: #58acfa;
+}
+
+#people-profile-photo {
+	width: 100%;
+	border: white solid 10px;
+	box-shadow: 0 1px 8px rgba(0, 0, 0, 0.4);
+}
+
+.people-profile-text-container {
+	text-align: center;
+}
+
+.people-profile-name {
+	font-family: Verdana, Geneva, sans-serif;
+	padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.people-profile-role {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	color: white;
+}
+
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
