@@ -16,7 +16,8 @@
 	        	person: function () {
 	        		return person;
 	        	}
-	        }
+	        },
+	        windowClass: "profile-width"
 	    });
     }
 

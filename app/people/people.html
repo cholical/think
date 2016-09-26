@@ -14,7 +14,7 @@
 			<div class="col-md-3" ng-repeat="person in people">
 				<div class="panel panel-default people-profile-panel">
 					<div class="panel-body people-profile-card">
-						<img ng-click="openProfile(person);" class="hvr-grow" id="people-profile-photo" ng-src="{{person.images[0]}}">
+						<img ng-click="openProfile(person);" class="hvr-grow" id="people-profile-photo" ng-src="{{person.images[0].url}}">
 						<div class="people-profile-text-container">
 							<div class="people-profile-name">
 								{{person.firstName}} {{person.lastName}}

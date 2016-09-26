@@ -1,3 +1,67 @@
+<div class="modal-heading">
+	<div class="row">
+		<div class="col-md-4">
+		</div>
+		<div class="col-md-4">
+			<div class="profile-name">
+				{{person.firstName}} {{person.lastName}}
+			</div>
+			<div class="profile-tagline">
+				{{person.tagline}}
+			</div>
+			<div class="profile-social-media">
+				<span class="profile-social-media-icon">
+					<a ng-href="{{person.facebook}}">
+						<i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i>
+					</a>
+				</span>
+				<span class="profile-social-media-icon">
+					<a ng-href="{{person.twitter}}">
+						<i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>
+					</a>
+				</span>
+				<span class="profile-social-media-icon">
+					<a ng-href="{{person.linkedin}}">
+						<i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>
+					</a>
+				</span>
+				<span class="profile-social-media-icon">
+					<a ng-href="mailto:{{person.email}}">
+						<i class="fa fa-envelope fa-lg" aria-hidden="true"></i>
+					</a>
+				</span>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<button class="btn btn-default pull-right profile-exit-button" ng-click="close()">
+				<i class="fa fa-times fa-lg" aria-hidden="true"></i>
+			</button>
+		</div>
+	</div>
+	<hr>
+</div>
 <div class="modal-body">
-	<img ng-src="{{person.images[0]}}">
+	<div class="row">
+		<div class="col-md-4">
+			<div class="profile-photo-shadow">
+				<div uib-carousel active="active" no-wrap="noWrapSlides">
+			      <div uib-slide ng-repeat="image in person.images" index="image.id">
+			        <img id="profile-photo" ng-src="{{image.url}}">
+			      </div>
+			    </div>
+		    </div>
+		</div>
+		<div class="col-md-8">
+			<div>
+				Bio:
+			</div>
+			<div>
+				Involvement with THINK
+			</div>
+		</div>
+	</div>
+	<hr>
+	<div class="row">
+		Experiences
+	</div>
 </div>

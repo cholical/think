@@ -1,7 +1,7 @@
 (function () {
 
   'use strict';
-  var app = angular.module('think', ['ui.router', 'ui.bootstrap', 'ui.bootstrap.modal']);
+  var app = angular.module('think', ['ui.router', 'ui.bootstrap', 'ui.bootstrap.modal', 'ngSanitize', 'ngAnimate']);
 
   app.config(['$stateProvider', '$urlRouterProvider', configRoutes]);
 
