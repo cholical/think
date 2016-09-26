@@ -1,8 +1,8 @@
 <div class="modal-heading">
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-xs-4">
 		</div>
-		<div class="col-md-4">
+		<div class="col-xs-4">
 			<div class="profile-name">
 				{{person.firstName}} {{person.lastName}}
 			</div>
@@ -32,7 +32,7 @@
 				</span>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-xs-4">
 			<button class="btn btn-default pull-right profile-exit-button" ng-click="close()">
 				<i class="fa fa-times fa-lg" aria-hidden="true"></i>
 			</button>
@@ -52,16 +52,49 @@
 		    </div>
 		</div>
 		<div class="col-md-8">
-			<div>
-				Bio:
+			<div class="profile-involvement-container">
+				<div class="profile-section-titles">
+					THINK Involvement
+				</div>
+				<div class="profile-think-involvement">
+					<ul class="profile-think-involvement-list">
+						<li class="profile-think-involvement-li" ng-repeat="singleInvolvement in person.involvement">{{singleInvolvement}}</li>
+					</ul>
+				</div>
 			</div>
-			<div>
-				Involvement with THINK
+			<hr>
+			<div class="profile-bio-container">
+				<div class="profile-section-titles">
+					Bio
+				</div>
+				<div class="profile-bio">
+					{{person.bio}}
+				</div>
+				<div ng-if="person.quote" class="profile-quote">
+					"{{person.quote}}"
+				</div>
+				<div ng-if="person.quoteAttribute" class="profile-quote-attribute">
+					- {{person.quoteAttribute}}
+				</div>
 			</div>
 		</div>
 	</div>
 	<hr>
 	<div class="row">
-		Experiences
+		<div class="col-xs-12">
+			<div class="profile-section-titles">
+				Experiences
+			</div>
+			<div ng-repeat="experience in person.experiences" class="profile-experience">
+				<div class="profile-experience-header">
+					<span class="profile-experience-title">{{experience.title}}</span>, <span class="profile-experience-company">{{experience.company}}</span>
+				</div>
+				<div class="profile-experience-body">
+					<ul>
+						<li ng-repeat="description in experience.descriptions">{{description}}</li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>

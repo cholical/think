@@ -173,6 +173,7 @@
 
 .profile-photo-shadow {
 	box-shadow: 0 1px 8px rgba(0, 0, 0, 0.4);
+	margin-bottom: 20px;
 }
 
 .carousel-control.left, .carousel-control.right {
@@ -185,4 +186,53 @@
 }
 .carousel:hover .carousel-control {
   visibility: visible;
+}
+
+.profile-section-titles {
+    font-size: 26px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.profile-think-involvement-list {
+	font-size: 18px;
+}
+
+.profile-think-involvement-li {
+	padding: 2px;
+}
+
+.profile-bio {
+	font-size: 18px;
+    text-indent: 50px;
+}
+
+.profile-quote {
+	font-size: 25px;
+    padding: 15px;
+    text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    color: #2480d6;
+}
+
+.profile-quote-attribute {
+	font-size: 20px;
+	padding: 10px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align: right;
+	color: #2480d6;
+}
+
+.profile-experience {
+	font-size: 16px;
+	padding-left: 50px;
+}
+
+.profile-experience-title {
+	font-weight: bold;
+}
+
+.profile-experience-company {
+	font-style: italic;
 }

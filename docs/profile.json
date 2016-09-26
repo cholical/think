@@ -3,7 +3,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -19,18 +19,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -47,7 +55,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -63,18 +71,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -91,7 +107,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -107,18 +123,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -135,7 +159,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -151,18 +175,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -179,7 +211,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -195,18 +227,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -223,7 +263,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -239,18 +279,26 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
@@ -267,7 +315,7 @@
     "personId": 0,
     "firstName": "Ronald",
     "lastName": "Ding",
-    "tagline": "Website Developer",
+    "tagline": "Tech Consultant",
     "year": 2,
     "images": [
       {
@@ -283,18 +331,494 @@
         "url": "img/profile/ronald3.jpg"
       }
     ],
-    "bio": "I am a student at UNC Kenan-Flagler. I am designing the Carolina Think website.",
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
     "involvement": [
-      "I am working on the website",
-      "I am on the operations team"
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
     ],
     "experiences": [
       {
-        "title": "Developer",
+        "title": "Technology Development Analyst Intern",
         "company": "Bank of America",
         "descriptions": [
-          "I created an application",
-          "I collaborated with other developers"
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
+        ]
+      }
+    ],
+    "email": "ronding@live.unc.edu",
+    "facebook": "https://www.facebook.com/Cholical",
+    "linkedin": "https://www.linkedin.com/in/ronald-ding-3992b1b6",
+    "twitter": "https://twitter.com/",
+    "president": false,
+    "vp": false,
+    "chair": false,
+    "execteam": true
+  },
+  {
+    "personId": 0,
+    "firstName": "Ronald",
+    "lastName": "Ding",
+    "tagline": "Tech Consultant",
+    "year": 2,
+    "images": [
+      {
+        "id": 0,
+        "url": "img/profile/ronald1.jpg"
+      },
+      {
+        "id": 1,
+        "url": "img/profile/ronald2.jpg"
+      },
+      {
+        "id": 2,
+        "url": "img/profile/ronald3.jpg"
+      }
+    ],
+    "bio": "I'm a dual major in Business Administration at Kenan-Flagler Business School and in Computer Science. My area of emphasis at Kenan-Flagler is in managerial consulting. I also work freelance developing websites, web applications, and backend engines.",
+    "involvement": [
+      "Website Design Committee",
+      "Carolina THINK Operations Team"
+    ],
+    "experiences": [
+      {
+        "title": "Technology Development Analyst Intern",
+        "company": "Bank of America",
+        "descriptions": [
+          "Fully designed and developed an application to track production releases in the Shared Services Production Management team using AngularJS, ExpressJS, NodeJS, and SQL Server",
+          "Application increased productivity by substituting Excel spreadsheets with intuitive table interfaces and prepopulated forms, by providing a centralized storage for release data, and by reducing email clutter"
+        ]
+      },
+      {
+        "title": "Developer",
+        "company": "Academic Benchmarking Consortium",
+        "descriptions": [
+          "Developed university payroll analytics web application using AngularJS, Bootstrap, JavaServer Pages, and MySQL",
+          "Researched, wrote, and presented recommendation reports on potential technologies and services to be included into the application and/or development process"
         ]
       }
     ],
