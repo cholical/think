@@ -3,12 +3,15 @@
 	var app = angular.module('think');
 
 	app.factory('peopleSvc', ['$http', function peopleSvc($http) {
+
+		var people = undefined;
  
 	    var getPeople = function() {
-	    	return $http({
+    		return $http({
 	            method: "get",
 	            url: "docs/profile.json",
 	        }).then(function(response) {
+	        	people = response.data;
 	        	return response.data;
 	        });
 	    }
