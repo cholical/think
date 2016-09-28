@@ -6,6 +6,10 @@ html,body {
     overflow-x: hidden; 
 }
 
+[ng-click] {
+    cursor: pointer;
+}
+
 /***** Navbar *****/
 .custom-navbar {
 	background-color: white;
@@ -70,15 +74,22 @@ html,body {
 	width:100vw;
 	background-color: white;
 	margin-top: 20%;
-	padding-top: 50px;
+	padding-bottom: 30px;
 }
 
 .people-team-title {
 	text-align: center;
     font-size: 40px;
-    color: #545454;
+    background-color: ;
+    padding-top: 20px;
+    margin-bottom: 20px;
     padding-bottom: 20px;
     font-family: Tahoma, Geneva, sans-serif;
+    background: #545454; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#58abf9, #7fb9f1); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#58abf9, #7fb9f1); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#58abf9, #7fb9f1); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#58abf9, #7fb9f1); /* Standard syntax (must be last) */
 }
 
 .people-profile-panel {
@@ -181,6 +192,10 @@ html,body {
 	padding: 3px;
 }
 
+.profile-social-media-icon > a:hover {
+	text-decoration: none;
+}
+
 .profile-photo-shadow {
 	box-shadow: 0 1px 8px rgba(0, 0, 0, 0.4);
 	margin-bottom: 20px;
@@ -245,4 +260,80 @@ html,body {
 
 .profile-experience-company {
 	font-style: italic;
+}
+
+/***** Footer *****/
+.footer-container {
+	background-color: #58acfa;
+	padding: 30px;
+
+}
+.footer-social-media {
+	text-align: center;
+	padding: 10px;
+}
+
+.footer-social-media-icon {
+	padding: 5px;
+}
+
+.footer-social-media-icon > a:hover {
+	text-decoration: none;
+}
+
+.footer-info-container {
+	padding-top: 10px;
+}
+
+.footer-headings {
+	color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 10px
+}
+
+.footer-navlinks {
+	font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-btn-custom {
+    background-color: #347ab7;
+    border: 0px;
+    color: white;
+}
+
+.footer-form-confirmation {
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-copyright {
+	text-align: center;
+	color: white;
+}
+
+.footer-ronald {
+	color: white;
+	text-align: center;
+}
+
+.footer-resources {
+	font-size: 18px;
+}
+
+.footer-resources-links {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.footer-form-labels {
+	color: white;
+}
+
+.footer-resources-container {
+	text-align: right;
 }

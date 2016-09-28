@@ -1,4 +1,4 @@
-<nav ng-controller="navbarCtrl" class="navbar navbar-default navbar-fixed-top custom-navbar" role="navigation" ng-class="{ 'navbar-transparent': currentState == 'home' }">
+<nav ng-controller="navbarCtrl" class="navbar navbar-default navbar-fixed-top custom-navbar" role="navigation">
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" ng-init="navCollapsed = true" ng-click="navCollapsed = !navCollapsed">
         	<span class="sr-only">Toggle navigation</span>
@@ -13,9 +13,9 @@
         <ul class="nav navbar-nav navbar-right">
             <li class="navbar-li"><a ui-sref="home">HOME</a></li>
             <li class="navbar-li"><a href="#">PROGRAMS</a></li>
+            <li class="navbar-li"><a href-"#">EVENTS</a><li>
             <li class="navbar-li"><a ui-sref="people">PEOPLE</a></li>
             <li class="navbar-li"><a href="#">ABOUT</a></li>
-            <li class="navbar-li"><a href="#">CONTACT</a></li>
         </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
