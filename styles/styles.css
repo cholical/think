@@ -337,3 +337,19 @@ html,body {
 .footer-resources-container {
 	text-align: right;
 }
+
+/***** Events *****/
+.events-container {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+#events-hypestarter-events {
+	width: 80%;
+	height: 600px;
+}
+
+#events-hypestarter-calendar {
+	width: 80%;
+	height: 850px;
+}

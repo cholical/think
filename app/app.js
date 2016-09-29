@@ -17,6 +17,36 @@
         templateUrl: 'app/people/people.html',
         controller: 'peopleCtrl'
       })
+      .state('alumni', {
+        url: '/alumni',
+        templateUrl: 'app/alumni/alumni.html',
+        controller: 'alumniCtrl'
+      })
+      .state('events', {
+        url: '/events',
+        templateUrl: 'app/events/events.html',
+        controller: 'eventsCtrl'
+      })
+      .state('about', {
+        url: '/about',
+        templateUrl: 'app/about/about.html',
+        controller: 'aboutCtrl'
+      })
+      .state('programs', {
+        url: '/programs',
+        templateUrl: 'app/programs/programs.html',
+        controller: 'programsCtrl'
+      })
+      .state('programs.thursdays', {
+        url: '/thinkthursdays',
+        templateUrl: 'app/thursdays/thursdays.html',
+        controller: 'thursdaysCtrl'
+      })
+      .state('programs.rides', {
+        url: '/rideswiththink',
+        templateUrl: 'app/rides/rides.html',
+        controller: 'ridesCtrl'
+      })
 
       modalStateProvider.state('people.profile', {
         url: '/:name',
